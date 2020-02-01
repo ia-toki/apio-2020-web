@@ -11,6 +11,7 @@
 @import 'sidebar';
 @import 'content-card';
 @import 'card';
+@import 'status';
 
 body {
   color: $text-color !important;
@@ -19,11 +20,12 @@ body {
 }
 
 p {
-  line-height: 20px;
+  line-height: 1.5;
+  margin-bottom: 1.5em;
 
   small {
     color: $small-color !important;
-    line-height: 14px !important;
+    line-height: 1.5 !important;
   }
 }
 
@@ -114,6 +116,16 @@ select {
 
 table {
   width: 100%;
+  margin-bottom: 1rem;
+  th, td {
+    padding: 1rem;
+  }
+  tr {
+    border-bottom: 1px solid #00000010;
+  }
+  thead {
+    border-bottom: 4px solid #00000020;
+  }
 }
 
 .html-text {

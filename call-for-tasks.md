@@ -4,7 +4,7 @@ title: APIO 2020 Call for Tasks
 key: call-for-tasks
 ---
 
-The Asia-Pacific Informatics Olympiad (APIO) is an online contest for the Asian and Western Pacific region.
+The Asia-Pacific Informatics Olympiad (APIO) is an online IOI-like contest for the Asian and Western Pacific region.
 APIO 2020 will be held on Saturday, May 9th, 2020 to Sunday, May 10th, 2020.
 The host of the APIO 2020 invites everyone in the programming contests community to submit tasks for the APIO 2020 competition.
 Guidelines for tasks and instructions for submission are given below.
@@ -39,10 +39,10 @@ Statement in English, preferably formatted in PDF with required diagrams and pic
 It is also strongly recommended to contain:
 
 * At least one implementation of the desired solution in C++ or Java.
-* Analyses of alternative solutions
-* Suggestions for grading
-* Test data or ideas for generating test data
-* The motivation behind the task
+* Analyses of alternative solutions.
+* Suggestions for grading.
+* Test data or ideas for generating test data.
+* The motivation behind the task.
 
 Any comments related to the task are also welcome and would be highly appreciated.
 

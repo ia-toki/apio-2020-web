@@ -6,7 +6,7 @@ key: call-for-tasks
 
 The Asia-Pacific Informatics Olympiad (APIO) is an online contest for the Asian and Western Pacific region.
 APIO 2020 will be held on Saturday, May 9th, 2020 to Sunday, May 10th, 2020.
-The host of the APIO 2020 invites everyone in the APIO community to submit tasks for the APIO 2020 competition.
+The host of the APIO 2020 invites everyone in the programming contests community to submit tasks for the APIO 2020 competition.
 Guidelines for tasks and instructions for submission are given below.
 
 

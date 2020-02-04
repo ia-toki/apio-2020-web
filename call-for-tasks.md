@@ -73,7 +73,7 @@ Authors of submitted tasks will be recognized during APIO 2020 by listing their 
 
 ### Summary
 
-* Submission deadline: 8 March 2020
+* Submission deadline: 15 March 2020
 * Language: English
 * Text format: PDF preferred
 * Multiple files for one task (e.g. diagrams, solution code): in a single zip or compressed tar archive

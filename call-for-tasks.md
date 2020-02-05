@@ -12,7 +12,7 @@ Guidelines for tasks and instructions for submission are given below.
 
 ### APIO competition tasks
 
-APIO tasks are basically the same as tasks in International Olympiad in Informatics, which are typically focused on the design of efficient, correct algorithms.
+APIO tasks are basically similar to the tasks in International Olympiad in Informatics, which are typically focused on the design of efficient, correct algorithms.
 Input and output are to be kept as simple as possible.
 The submission of novel tasks types not yet seen in any recent programming contests is encouraged.
 The guidelines of task preparations of IOI should be considered, with no restriction.
@@ -31,8 +31,7 @@ To ensure a fair and interesting competition for all, tasks should satisfy the f
 
 A task submission must contain:
 
-Statement in English, preferably formatted in PDF with required diagrams and pictures included.
-
+* Statement in English, preferably formatted in PDF with required diagrams and pictures included.
 * Description of the desired solution (a description of an algorithm which should get full score).
 * Contact address (preferably one e-mail address) and background information on the task author(s): affiliation, country, and a description of the author’s role in the APIO or national olympiad, including training duties, over the period from APIO 2019 to APIO 2020.
 
@@ -65,7 +64,7 @@ Email to [sc.apio2020@toki.id](mailto:sc.apio2020@toki.id) with **[Task Submissi
 
 Tasks that are not used will be kept secret, and will be returned to their submitters so that they can be used elsewhere. Note that all submitted tasks will be seen only by the host organizing committee, and the shortlisted tasks will be seen by all heads of delegations from the region. Communications among heads of delegations and hosts about the APIO tasks should be done mainly by e-mail and secured web.
 
-All submitted tasks will be shortlisted by the host of APIO 2020. Then, the shortlisted tasks are distributed to all heads of delegations. Hosts of delegations should provide suggestions and propose the final set of competition tasks to the host in order to make a final decision on the competition task set. If any countries need to translate the task scripts to their languages, the translated script must be submitted to the host up to three days before the competition day.
+All submitted tasks will be shortlisted by the host of APIO 2020. Then, the shortlisted tasks are distributed to all heads of delegations. If any countries need to translate the task scripts to their languages, the translated script must be submitted to the host up to three days before the competition day.
 
 At various moments during the preparation of the APIO 2020 competition, it is possible that submitted tasks are dropped from further consideration. However, it may still be necessary to revert such decisions later. In general, all submitted tasks, whether dropped or not, should be kept secret until the end of competition.
 

@@ -20,6 +20,14 @@
       <div
         class="pt-tab"
         role="tab"
+        aria-selected="{% if page.key == 'call-for-tasks' %}true{% else %}false{% endif %}"
+      >
+        <span class="pt-icon-standard pt-icon-book sidebar-icon"></span>
+        <a href="/call-for-tasks.html">Call for Tasks</a>
+      </div>
+      <div
+        class="pt-tab"
+        role="tab"
         aria-selected="{% if page.key == 'onsite' %}true{% else %}false{% endif %}"
       >
         <span class="pt-icon-standard pt-icon-flag sidebar-icon"></span>
@@ -32,14 +40,6 @@
       >
         <span class="pt-icon-standard pt-icon-book sidebar-icon"></span>
         <a href="/rules.html">Rules</a>
-      </div>
-      <div
-        class="pt-tab"
-        role="tab"
-        aria-selected="{% if page.key == 'environment' %}true{% else %}false{% endif %}"
-      >
-        <span class="pt-icon-standard pt-icon-application sidebar-icon"></span>
-        <a href="/environment.html">Environment</a>
       </div>
       <div
         class="pt-tab"

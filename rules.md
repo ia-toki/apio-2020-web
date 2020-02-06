@@ -17,11 +17,11 @@ key: rules
 # Onsite Contest Format
 * The APIO 2020 onsite have the same rule as the online contest format, with several differences.
 * There will be only 10 that are invited and 6 participants for each countries. The committee will accept the confirmation of the country that want to do it onsite in First Come First Serve base.
-* The participants of each contry invited will take the contest at Jakarta, Indonesia.
-* The contest will start at Sunday, 10 May 2020 (UTC+7 08.00) for 5 hours.
-* Beside the contest day, there will be a time for excursion and visiting popular place in Jakarta.
-* There's no different between the onsite participants and the online participants. The winner will be decided equally as if the onsite participants are the online participants.
-* If the onsite participants win, there will be awarded physical medals in closing ceremony / awarding night.
+* The participants of each invited country will take the contest in Jakarta, Indonesia.
+* The contest will be held on Sunday, 10 May 2020 (UTC+7 08.00) for 5 hours.
+* Beside the contest day, there will be a time for excursion and visiting popular places in Jakarta.
+* There are no differences between the onsite participants and the online participants. The winners will be decided equally as if the onsite participants are the online participants.
+* If onsite participants win medals, they will be awarded physical medals in closing ceremony / awarding night.
 
 # Medal Distribution
 The medal awards are uniquely determined by the following rules:

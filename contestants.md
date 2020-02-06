@@ -4,7 +4,7 @@ title: APIO 2020 Contestants
 key: contestants
 ---
 
-The country listed below is the country that has been participated in APIO in the past.
+The countries listed below are the countries that have participated in APIO in the past.
 If you think that your country is eligible but has not been listed here, please contact us at [info@toki.id](mailto:info@toki.id).
 
 | Country | Status | Onsite | Leader | No. Sites | No. Participants |

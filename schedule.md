@@ -4,7 +4,7 @@ title: APIO 2020 Schedule
 key: schedule
 ---
 
-# Important Date
+### Important Date
 
 | Activity | Timeline (in UTC+0) |
 |----------|----------|
@@ -13,7 +13,7 @@ key: schedule
 | Online Competition Window | Friday, 8 May 2020, 06.00 - Sunday, 10 May 2020, 06.00 |
 
 
-# Onsite Schedule
+### Onsite Schedule
 
 Draft schedule, subject to change!
 

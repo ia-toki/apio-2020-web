@@ -1,17 +1,17 @@
 ---
 layout: single-page-md
-title: APIO 2020 About
+title: About APIO 2020
 key: about
 ---
 
 The Asia-Pacific Informatics Olympiad (APIO) is an IOI-like competition for delegations within the South Asian / Western Pacific region. The first competition was organized by the Australian IOI team in 2007.
 
 APIO 2020 will be hosted by Indonesia. Usually the contest will be held online.
-But in APIO 2020, for the first time, in addition to online version, there will be held also onsite in Indonesia.
+But in APIO 2020, for the first time, in addition to online version, there will be held also onsite contest in Indonesia.
 
-As usual, the online version, the participants will be competing at the contest sites within their own country or area.
+As usual, in the online version, the participants will be competing at the contest sites within their own coutries or areas.
 
-And in addition to that, there will be several country that will be invited to send their delegation to Indonesia to take the contest.
+And in addition to that, there will be several countries that will be invited to send their delegation to Indonesia to participate in the onsite contest.
 
 The eligible participants are the one that is also eligible for the IOI 2020. The leaders of each eligible country to participate will register their participants for the APIO 2020. If you are a student wishing to compete, please contact your local informatics olympiad organization.
 

@@ -16,7 +16,7 @@ APIO tasks are basically similar to the tasks in International Olympiad in Infor
 Input and output are to be kept as simple as possible.
 The submission of novel tasks types not yet seen in any recent programming contests is encouraged.
 The guidelines of task preparations of IOI should be considered, with no restriction.
-The documents about submission of IOI tasks, which can be used as reference to create the tasks, can be found at IOI website.
+The documents about submission of IOI tasks, which can be used as reference to create the tasks, can be found on the IOI website.
 
 To ensure a fair and interesting competition for all, tasks should satisfy the following conditions:
 
@@ -68,7 +68,7 @@ All submitted tasks will be shortlisted by the host of APIO 2020. Then, the shor
 
 At various moments during the preparation of the APIO 2020 competition, it is possible that submitted tasks are dropped from further consideration. However, it may still be necessary to revert such decisions later. In general, all submitted tasks, whether dropped or not, should be kept secret until the end of competition.
 
-Authors of submitted tasks will be recognized during APIO 2020 by listing their name, affiliation, and country (unless they specifically decline this).
+Authors of submitted tasks will be recognized on the APIO 2020 website by listing their name, affiliation, and country (unless they specifically decline this).
 
 ### Summary
 

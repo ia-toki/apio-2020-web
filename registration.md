@@ -5,7 +5,7 @@ key: registration
 ---
 
 ### Confirmation Phase
-The leader of each country listed below will be contacted by [email](infoapio2020@iatoki.id).
+The leader of each country listed below will be contacted by [email](info.apio2020@iatoki.id).
 Then they can reply with their confirmation of joining the competition.
 In addition to that they can opt-in to onsite competition in Indonesia too, please refer to [onsite page](onsite#registration-for-onsite-contest).
 For the deadline of the confirmation, please refer to [schedule page](schedule).

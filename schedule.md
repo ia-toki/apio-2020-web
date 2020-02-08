@@ -4,6 +4,9 @@ title: APIO 2020 Schedule
 key: schedule
 ---
 
+The schedule is not exhaustive yet.
+The schedule for practice session, task translation, and result announcement is yet to be announced.
+
 | Activity | Timeline (in UTC+0) |
 |----------|----------|
 | [Leader Confirmation Deadline](registration) | Friday, 13 March 2020 |

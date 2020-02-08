@@ -5,7 +5,7 @@ key: onsite
 ---
 
 ### Registration for Onsite Contest
-* There will be only 10 that are invited and 6 participants for each country. The committee will accept the confirmation of the country that wants to do it onsite in the First Come First Serve basis.
+* There will be only 10 countries that are invited and 6 participants for each country. The committee will accept the confirmation of the country that wants to do it onsite in the First Come First Serve basis.
 * To register your country, please refer first to the general [registration page](registration).
 * In the confirmation phase, the leader needs to state their confirmation to participate in onsite contest.
 * In the registration phase, the leader needs to state the participants that will participate in the onsite contest.

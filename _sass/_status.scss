@@ -22,6 +22,17 @@
   }
 }
 
+.status-cc {
+  @extend .status;
+
+  background: yellow;
+  color: inherit;
+  
+  &::before {
+    content: "Contacted";
+  }
+}
+
 .status-co {
   @extend .status;
 

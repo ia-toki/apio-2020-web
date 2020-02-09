@@ -1,0 +1,63 @@
+.status {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+  color: white;
+  border-radius: 1rem;
+
+  &::before {
+    content: "";
+    flex: 0 0 auto;
+  }
+}
+
+.status-nc {
+  @extend .status;
+
+  color: inherit;
+  
+  &::before {
+    content: "Not Contacted";
+  }
+}
+
+.status-co {
+  @extend .status;
+
+  background: orange;
+
+  &::before {
+    content: "Confirmed";
+  }
+}
+
+.status-cm {
+  @extend .status;
+
+  background: green;
+
+  &::before {
+    content: "Completed";
+  }
+}
+
+.status-nr {
+  @extend .status;
+
+  background: red;
+
+  &::before {
+    content: "Not Replying";
+  }
+}
+
+.status-np {
+  @extend .status;
+
+  background: purple;
+
+  &::before {
+    content: "Not Participating";
+  }
+}

@@ -45,11 +45,11 @@ If you think that your country is eligible but has not been listed here, please 
 | Russia       | <span class="status-nc"></span> |
 | Singapore    | <span class="status-nc"></span> |
 | Sri Lanka    | <span class="status-nc"></span> |
-| Syria        | <span class="status-nc"></span> |
+| Syria        | <span class="status-nc"></span> |  | Ammar Alnahhas |
 | Taiwan       | <span class="status-cc"></span> |  | Hung-Lung Wang |
 | Tajikistan   | <span class="status-nc"></span> |
 | Thailand     | <span class="status-cc"></span> |  | Jittat Fakcharoenphol |
 | Turkey       | <span class="status-cc"></span> |  | Tolga Can |
-| Turkmenistan | <span class="status-nc"></span> |
+| Turkmenistan | <span class="status-cc"></span> |  | Kochek Arazow |
 | Uzbekistan   | <span class="status-nc"></span> |
 | Vietnam      | <span class="status-nc"></span> |

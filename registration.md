@@ -44,7 +44,7 @@ If you think that your country is eligible but has not been listed here, please 
 | Philippines  | <span class="status-cc"></span> |  | Rafael P. Saldana |
 | Russia       | <span class="status-nc"></span> |
 | Singapore    | <span class="status-co"></span> | <span class="onsite-yes"></span> | Suhendry Effendy |
-| Sri Lanka    | <span class="status-nc"></span> |
+| Sri Lanka    | <span class="status-co"></span> |  | Adithya Narasinghe |
 | Syria        | <span class="status-cc"></span> |  | Ammar Alnahhas |
 | Taiwan       | <span class="status-cc"></span> |  | Hung-Lung Wang |
 | Tajikistan   | <span class="status-nc"></span> |

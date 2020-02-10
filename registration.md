@@ -42,7 +42,7 @@ If you think that your country is eligible but has not been listed here, please 
 | New Zealand  | <span class="status-co"></span> | <span class="onsite-no"></span> | Yulia Turkova |
 | Palestine    | <span class="status-nc"></span> |
 | Philippines  | <span class="status-cc"></span> |  | Rafael P. Saldana |
-| Russia       | <span class="status-nc"></span> |
+| Russia       | <span class="status-cc"></span> |  | Andrey Stankevich |
 | Singapore    | <span class="status-co"></span> | <span class="onsite-yes"></span> | Suhendry Effendy |
 | Sri Lanka    | <span class="status-co"></span> |  | Adithya Narasinghe |
 | Syria        | <span class="status-cc"></span> |  | Ammar Alnahhas |

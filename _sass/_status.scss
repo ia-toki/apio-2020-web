@@ -72,3 +72,23 @@
     content: "Not Participating";
   }
 }
+
+.onsite-yes {
+  @extend .status;
+
+  background: green;
+
+  &::before {
+    content: "Yes"
+  }
+}
+
+.onsite-no {
+  @extend .status;
+
+  background: red;
+
+  &::before {
+    content: "No"
+  }
+}

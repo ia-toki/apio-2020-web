@@ -47,7 +47,7 @@ If you think that your country is eligible but has not been listed here, please 
 | Sri Lanka    | <span class="status-cc"></span> |  | Adithya Narasinghe |
 | Syria        | <span class="status-cc"></span> |  | Ammar Alnahhas |
 | Taiwan       | <span class="status-cc"></span> |  | Hung-Lung Wang |
-| Tajikistan   | <span class="status-cc"></span> |  | Hung-Lung Wang |
+| Tajikistan   | <span class="status-cc"></span> |  | Alexandr Ismatov |
 | Thailand     | <span class="status-cc"></span> |  | Jittat Fakcharoenphol |
 | Turkey       | <span class="status-co"></span> | <span class="onsite-no"></span> | Tolga Can |
 | Turkmenistan | <span class="status-co"></span> | <span class="onsite-no"></span> | Kochek Arazow |

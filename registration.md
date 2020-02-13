@@ -22,16 +22,16 @@ If you think that your country is eligible but has not been listed here, please 
 |---------|--------|--------|--------|-----------|------------------|
 | Armenia      | <span class="status-cc"></span> |  | Armen Andreasyan |
 | Australia    | <span class="status-cc"></span> |  | Kevin Tran |
-| Azerbaijan   | <span class="status-nc"></span> |
+| Azerbaijan   | <span class="status-cc"></span> |  | Ramin Mahmudzade |
 | Bangladesh   | <span class="status-cc"></span> |  | M. Sohel Rahman |
 | China        | <span class="status-co"></span> | <span class="onsite-no"></span> | Hong Wang |
 | Georgia      | <span class="status-co"></span> | <span class="onsite-no"></span> | Zaza Gamezardashvili |
 | Hong Kong    | <span class="status-cc"></span> |  | Tony Wong |
 | India        | <span class="status-cc"></span> |  | Madhavan Mukund |
 | Indonesia    | <span class="status-co"></span> | <span class="onsite-yes"></span> | Felix Jingga |
-| Iran         | <span class="status-nc"></span> |
+| Iran         | <span class="status-cc"></span> |  | Mohammad Ali Abam |
 | Israel       | <span class="status-nc"></span> |
-| Japan        | <span class="status-nc"></span> |
+| Japan        | <span class="status-cc"></span> |  | Seiichi Tani |
 | Jordan       | <span class="status-cc"></span> |  | Mowaffaq Hanandeh |
 | Kazakhstan   | <span class="status-nc"></span> |
 | Korea        | <span class="status-co"></span> | <span class="onsite-no"></span> | Inbok Lee |
@@ -40,14 +40,14 @@ If you think that your country is eligible but has not been listed here, please 
 | Malaysia     | <span class="status-nc"></span> |
 | Mongolia     | <span class="status-cc"></span> |  | Khuder Altangerel |
 | New Zealand  | <span class="status-co"></span> | <span class="onsite-no"></span> | Yulia Turkova |
-| Palestine    | <span class="status-nc"></span> |
+| Palestine    | <span class="status-cc"></span> |  | Mousa Alrefaiyeh |
 | Philippines  | <span class="status-cc"></span> |  | Rafael P. Saldana |
 | Russia       | <span class="status-cc"></span> |  | Andrey Stankevich |
 | Singapore    | <span class="status-co"></span> | <span class="onsite-yes"></span> | Suhendry Effendy |
-| Sri Lanka    | <span class="status-co"></span> |  | Adithya Narasinghe |
+| Sri Lanka    | <span class="status-cc"></span> |  | Adithya Narasinghe |
 | Syria        | <span class="status-cc"></span> |  | Ammar Alnahhas |
 | Taiwan       | <span class="status-cc"></span> |  | Hung-Lung Wang |
-| Tajikistan   | <span class="status-nc"></span> |
+| Tajikistan   | <span class="status-cc"></span> |  | Hung-Lung Wang |
 | Thailand     | <span class="status-cc"></span> |  | Jittat Fakcharoenphol |
 | Turkey       | <span class="status-co"></span> | <span class="onsite-no"></span> | Tolga Can |
 | Turkmenistan | <span class="status-co"></span> | <span class="onsite-no"></span> | Kochek Arazow |

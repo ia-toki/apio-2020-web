@@ -60,6 +60,14 @@
       <div
         class="pt-tab"
         role="tab"
+        aria-selected="{% if page.key == 'links' %}true{% else %}false{% endif %}"
+      >
+        <span class="pt-icon-standard pt-icon-link sidebar-icon"></span>
+        <a href="/links.html">Links</a>
+      </div>
+      <div
+        class="pt-tab"
+        role="tab"
         aria-selected="{% if page.key == 'contact' %}true{% else %}false{% endif %}"
       >
         <span class="pt-icon-standard pt-icon-envelope sidebar-icon"></span>

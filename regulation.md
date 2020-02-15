@@ -1,7 +1,7 @@
 ---
 layout: single-page-md
-title: APIO 2020 Rules
-key: rules
+title: APIO 2020 Regulation
+key: regulation
 ---
 
 ### Online Contest Format

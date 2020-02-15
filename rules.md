@@ -1,0 +1,87 @@
+---
+layout: single-page-md
+title: APIO 2020 Competition Rules
+key: rules
+---
+
+These Competition Rules cover General, Problem Scoring, Contestant Scoring, Grading System, and Clarifications in APIO 2019.
+Delegation Leaders have the responsibility of ensuring that all members of their delegation fully understand these rules and abide by them.
+
+<span style="color:red">**Please do not share the problems after the contest within 2 days since the competition is not held within a same time range.**</span>
+
+<br>
+
+### A. General
+
+* APIO 2020 contains of *1 trial problemset* and *1 competition day*.
+* Result of the trial problemset *does not* affect scoring.
+* There will be *3 (three) problems* on the competition day to be solved in *5 (five) hours*.
+* Each contestant may submit up to *50 submissions* for each problem.
+* The supported programming languages are *C++* and *Java*.
+* During the competition, each contestant can only see their own scores.
+
+<br>
+
+### B. Problem Scoring
+
+* There are two types of scoring: **standard** and **creative**.
+* Creative problems will be stated explicitly in the problem description.
+
+* **Standard** scoring:
+  * For batch and interactive problems:
+    * A problem consists of **multiple subtasks** with various points.
+    * A subtask consists of **multiple test cases** that are grouped into some **test groups**.
+    * A submission gets a subtask's points if it solves **all of its test groups**.
+    * To solve a test group, a submission has to solve **all of its test cases**.
+  * For output-only problems:
+    * A problem consists of **multiple test cases** with various points.
+    * A submission gets the test case's points if it produces the correct output.
+
+* **Creative** scoring:
+  * The scoring formula will vary for each problem and will be explicitly stated in the problem description.
+
+<br>
+
+### C. Contestant Scoring
+
+* For batch and interactive problems:
+  * On creative scoring, for each submission, the score of a subtask is the minimum score among all its test cases.
+  * A subtask final score is the **maximum of its score** among all submissions.
+  * Contestant's score for a problem is the sum of all its subtasks final score.
+
+  For example, if the first submission got 30 points for the first subtask and 0 points for the second subtask, and the second submission got 0 points for the first subtask and 40 points for the second subtask, then the contestant's score for the problem is 70 points.
+* For output-only problems:
+  * A test case final score is the **maximum of its score** among all submissions.
+  * A contestant's score on a problem is the sum of all its test cases final score.
+* A contestant's total score is the sum of **all of problems score**.
+* Contestants will be ranked by the total score (descending).
+* Two contestants with **the same** total score will achieve **the same** rank.
+* Submission time **will not affect** contestant rank at all.
+
+<br>
+
+### D. Grading System
+
+* [TLX](https://tlx.toki.id) will be used as the grading system.
+* Source code limit for each submission is **300 KB**.
+* For each test case, the grader will output one of:
+  * **AC** (Accepted): program solved the problem within the given time and memory limits.
+  * **WA** (Wrong Answer): program stopped within given time and memory limits, but produced the wrong output.
+  * **RTE** (Runtime Error): program crashed or exceedeed the memory limit.
+  * **TLE** (Time Limit Exceeded): program exceeded the time limit.
+  * Skipped: test case is not graded because there was a test case in the same subtask that was not solved.
+
+<br>
+
+### E. Clarification
+
+* A contestant can submit a clarification request in English or their native language during the competition.
+* If a clarification request is submitted in their native language, the leader of the contestant needs to translate it to English before it can be answered.
+* Clarification requests will be answered only in English with one of the following:
+   * “YES”
+   * “NO”
+   * “ANSWERED IN TASK DESCRIPTION (EXPLICITLY OR IMPLICITLY)” – The task description contains sufficient information. The contestant should read it again carefully.
+   * “INVALID QUESTION” – The question is most likely not phrased so that a yes/no answer would be meaningful. The contestant is encouraged to rephrase the question.
+   * “NO COMMENT” – The contestant is asking for information that the Scientific Committee cannot give.
+* If there need to be announcements, the announcement will be sent to the leaders.
+* The leader of each country is responsible for making sure that the contestants are informed of the announcements, translated into local language if necessary.

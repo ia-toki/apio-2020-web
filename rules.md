@@ -13,11 +13,11 @@ Delegation Leaders have the responsibility of ensuring that all members of their
 
 ### A. General
 
-* APIO 2020 contains of *1 trial problemset* and *1 competition day*.
-* Result of the trial problemset *does not* affect scoring.
-* There will be *3 (three) problems* on the competition day to be solved in *5 (five) hours*.
-* Each contestant may submit up to *50 submissions* for each problem.
-* The supported programming languages are *C++* and *Java*.
+* APIO 2020 contains of **1 trial problemset** and **1 competition day**.
+* Result of the trial problemset **does not** affect scoring.
+* There will be **3 (three) problems** on the competition day to be solved in **5 (five) hours**.
+* Each contestant may submit up to **50 submissions** for each problem.
+* The supported programming languages are **C++** and **Java**.
 * During the competition, each contestant can only see their own scores.
 
 <br>

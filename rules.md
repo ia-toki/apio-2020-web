@@ -64,10 +64,11 @@ Delegation Leaders have the responsibility of ensuring that all members of their
 
 * [TLX](https://tlx.toki.id) will be used as the grading system.
 * Source code limit for each submission is **300 KB**.
+* Contestants will get a full feedback for each of their submission.
 * For each test case, the grader will output one of:
   * **AC** (Accepted): program solved the problem within the given time and memory limits.
   * **WA** (Wrong Answer): program stopped within given time and memory limits, but produced the wrong output.
-  * **RTE** (Runtime Error): program crashed or exceedeed the memory limit.
+  * **RTE** (Runtime Error): program crashed or exceeded the memory limit.
   * **TLE** (Time Limit Exceeded): program exceeded the time limit.
   * Skipped: test case is not graded because there was a test case in the same subtask that was not solved.
 

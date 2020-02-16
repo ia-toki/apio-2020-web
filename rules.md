@@ -77,12 +77,9 @@ Delegation Leaders have the responsibility of ensuring that all members of their
 ### E. Clarification
 
 * A contestant can submit a clarification request in English or their native language during the competition.
-* If a clarification request is submitted in their native language, the leader of the contestant needs to translate it to English before it can be answered.
 * Clarification requests will be answered only in English with one of the following:
    * “YES”
    * “NO”
    * “ANSWERED IN TASK DESCRIPTION (EXPLICITLY OR IMPLICITLY)” – The task description contains sufficient information. The contestant should read it again carefully.
    * “INVALID QUESTION” – The question is most likely not phrased so that a yes/no answer would be meaningful. The contestant is encouraged to rephrase the question.
    * “NO COMMENT” – The contestant is asking for information that the Scientific Committee cannot give.
-* If there need to be announcements, the announcement will be sent to the leaders.
-* The leader of each country is responsible for making sure that the contestants are informed of the announcements, translated into local language if necessary.

@@ -10,7 +10,7 @@ key: regulation
 * Each country must run one or more official contest sites.
 * All participants must take the contest at an official contest site.
 * Each contest site starts the contest at the time of its own choice within the window. Different sites from within the same country may also start the contest at different times.
-* Each contest site must be fully supervised in order to guarantee that the contest rules be observed by all the students.
+* Each contest site must be fully supervised in order to guarantee that the contest rules are observed by all the students.
 * Each country may consist of up to 60 students. However, only the top six students will form the official team, according to the contest results.
 * Students are eligible for this contest if and only if they are eligible for IOI 2020.
 

@@ -4,7 +4,7 @@ title: APIO 2020 Competition Rules
 key: rules
 ---
 
-These Competition Rules cover General, Problem Scoring, Contestant Scoring, Grading System, and Clarifications in APIO 2019.
+These Competition Rules cover General, Problem Scoring, Contestant Scoring, Grading System, and Clarifications in APIO 2020.
 Delegation Leaders have the responsibility of ensuring that all members of their delegation fully understand these rules and abide by them.
 
 <span style="color:red">**Please do not share the problems after the contest within 2 days since the competition is not held within a same time range.**</span>
@@ -13,7 +13,7 @@ Delegation Leaders have the responsibility of ensuring that all members of their
 
 ### A. General
 
-* APIO 2020 contains of **1 trial problemset** and **1 competition day**.
+* APIO 2020 consists of **1 trial problemset** and **1 competition day**.
 * Result of the trial problemset **does not** affect scoring.
 * There will be **3 (three) problems** on the competition day to be solved in **5 (five) hours**.
 * Each contestant may submit up to **50 submissions** for each problem.
@@ -62,9 +62,9 @@ Delegation Leaders have the responsibility of ensuring that all members of their
 
 ### D. Grading System
 
-* [TLX](https://tlx.toki.id) will be used as the grading system.
+* Grading system similar to the public site [TLX](https://tlx.toki.id) will be used.
 * Source code limit for each submission is **300 KB**.
-* Contestants will get a full feedback for each of their submission.
+* Contestants will get a full feedback for each submission.
 * For each test case, the grader will output one of:
   * **AC** (Accepted): program solved the problem within the given time and memory limits.
   * **WA** (Wrong Answer): program stopped within given time and memory limits, but produced the wrong output.

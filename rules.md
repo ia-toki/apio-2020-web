@@ -7,7 +7,7 @@ key: rules
 These Competition Rules cover General, Problem Scoring, Contestant Scoring, Grading System, and Clarifications in APIO 2020.
 Delegation Leaders have the responsibility of ensuring that all members of their delegation fully understand these rules and abide by them.
 
-<span style="color:red">**Please do not share the problems after the contest within 2 days since the competition is not held within a same time range.**</span>
+<span style="color:red">**Please do not share the problems after the contest within 2 days since the competition is not held within the same time range.**</span>
 
 <br>
 
@@ -64,7 +64,7 @@ Delegation Leaders have the responsibility of ensuring that all members of their
 
 * Grading system similar to the public site [TLX](https://tlx.toki.id) will be used.
 * Source code limit for each submission is **300 KB**.
-* Contestants will get a full feedback for each submission.
+* Contestants will get full feedback for each submission.
 * For each test case, the grader will output one of:
   * **AC** (Accepted): program solved the problem within the given time and memory limits.
   * **WA** (Wrong Answer): program stopped within given time and memory limits, but produced the wrong output.

@@ -22,6 +22,17 @@
   }
 }
 
+.status-cc {
+  @extend .status;
+
+  background: yellow;
+  color: inherit;
+  
+  &::before {
+    content: "Contacted";
+  }
+}
+
 .status-co {
   @extend .status;
 
@@ -59,5 +70,25 @@
 
   &::before {
     content: "Not Participating";
+  }
+}
+
+.onsite-yes {
+  @extend .status;
+
+  background: green;
+
+  &::before {
+    content: "Yes"
+  }
+}
+
+.onsite-no {
+  @extend .status;
+
+  background: red;
+
+  &::before {
+    content: "No"
   }
 }

@@ -11,8 +11,7 @@ key: onsite
 * In the registration phase, the leader needs to state the participants that will participate in the onsite contest.
 
 ### Onsite Contest Information
-* The onsite contest is free of charge, all the accomodation, food, and transport will be the responsibility of the 
-organisator (except the airplane ticket to and from Jakarta, Indonesia).
+* The onsite contest is free of charge: all the accommodation, food, and transportation costs will be the responsibility of the organizer, except the flight to and from Jakarta, Indonesia.
 * The APIO 2020 onsite have the same rule as the [online contest format](rules#online-contest-format), with several differences.
 * The participants of each invited country will take the contest in Jakarta, Indonesia.
 * The contest will be held on Sunday, 10 May 2020 (UTC+7 08.00) for 5 hours.

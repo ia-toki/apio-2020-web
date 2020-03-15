@@ -4,6 +4,8 @@ title: APIO 2020 Onsite
 key: onsite
 ---
 
+<span style="color:red">Given the current situation pertaining to the COVID-19 outbreak, we regret to inform you that there will be <b><u>no onsite contest</u></b> option for APIO 2020. Therefore, <b>this page is depcreated.</b></span>
+
 ### Registration for Onsite Contest
 * There will be only 10 countries that are invited and 6 participants for each country. The committee will accept the confirmation of the country that wants to participate in the onsite contest in the First Come First Serve basis.
 * To register your country, please refer first to the general [registration page](registration).

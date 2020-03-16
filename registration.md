@@ -19,19 +19,19 @@ If you think that your country is eligible but has not been listed here, please 
 
 | Country | Status | Leader | No. Sites | No. Participants |
 |---------|--------|--------|-----------|------------------|
-| Armenia      | <span class="status-cc"></span> | Armen Andreasyan |
+| Armenia      | <span class="status-co"></span> | Armen Andreasyan |
 | Australia    | <span class="status-co"></span> | Kevin Tran |
-| Azerbaijan   | <span class="status-cc"></span> | Ramin Mahmudzade |
-| Bangladesh   | <span class="status-cc"></span> | M. Sohel Rahman |
+| Azerbaijan   | <span class="status-co"></span> | Ramin Mahmudzade |
+| Bangladesh   | <span class="status-co"></span> | M. Sohel Rahman |
 | China        | <span class="status-co"></span> | Hong Wang |
 | Georgia      | <span class="status-co"></span> | Zaza Gamezardashvili |
-| Hong Kong    | <span class="status-cc"></span> | Tony Wong |
-| India        | <span class="status-cc"></span> | Madhavan Mukund |
+| Hong Kong    | <span class="status-co"></span> | Tony Wong |
+| India        | <span class="status-co"></span> | Madhavan Mukund |
 | Indonesia    | <span class="status-co"></span> | Felix Jingga |
-| Iran         | <span class="status-cc"></span> | Mohammad Ali Abam |
-| Israel       | <span class="status-cc"></span> | Avshalom Elmalech |
-| Japan        | <span class="status-cc"></span> | Seiichi Tani |
-| Jordan       | <span class="status-cc"></span> | Mowaffaq Hanandeh |
+| Iran         | <span class="status-co"></span> | Mohammad Ali Abam |
+| Israel       | <span class="status-co"></span> | Avshalom Elmalech |
+| Japan        | <span class="status-co"></span> | Seiichi Tani |
+| Jordan       | <span class="status-co"></span> | Mowaffaq Hanandeh |
 | Kazakhstan   | <span class="status-co"></span> | Temirlan Satylkhanov |
 | Korea        | <span class="status-co"></span> | Inbok Lee |
 | Kuwait       | <span class="status-nr"></span> |
@@ -40,14 +40,14 @@ If you think that your country is eligible but has not been listed here, please 
 | Malaysia     | <span class="status-co"></span> | Wei Xin Tan |
 | Mongolia     | <span class="status-co"></span> | Danzan Tsedevsuren |
 | New Zealand  | <span class="status-co"></span> | Yulia Turkova |
-| Palestine    | <span class="status-cc"></span> | Mousa Alrefaiyeh |
+| Palestine    | <span class="status-co"></span> | Mousa Alrefaiyeh |
 | Philippines  | <span class="status-co"></span> | Rafael P. Saldana |
-| Russia       | <span class="status-cc"></span> | Andrey Stankevich |
+| Russia       | <span class="status-co"></span> | Andrey Stankevich |
 | Singapore    | <span class="status-co"></span> | Suhendry Effendy |
 | Sri Lanka    | <span class="status-co"></span> | Adithya Narasinghe |
-| Syria        | <span class="status-cc"></span> | Ammar Alnahhas |
-| Taiwan       | <span class="status-cc"></span> | Hung-Lung Wang |
-| Tajikistan   | <span class="status-cc"></span> | Alexandr Ismatov |
+| Syria        | <span class="status-co"></span> | Ammar Alnahhas |
+| Taiwan       | <span class="status-co"></span> | Hung-Lung Wang |
+| Tajikistan   | <span class="status-co"></span> | Alexandr Ismatov |
 | Thailand     | <span class="status-co"></span> | Jittat Fakcharoenphol |
 | Turkey       | <span class="status-co"></span> | Tolga Can |
 | Turkmenistan | <span class="status-co"></span> | Kochek Arazow |

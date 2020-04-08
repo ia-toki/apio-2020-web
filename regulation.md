@@ -4,7 +4,7 @@ title: APIO 2020 Regulation
 key: regulation
 ---
 
-Please note that there are significant change in this year's regulation due to COVID-19 outbreak. See [Changes due to COVID-19 pandemic page](/covid) for more details.
+Please note that there are significant changes in this year's regulation due to COVID-19 pandemic. See [Changes due to COVID-19 pandemic page](/covid) for more details.
 
 ### Online Contest Format
 * The APIO 2020 online contest is a 5-hour contest with flexible start time within a determined window.

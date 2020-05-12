@@ -8,7 +8,7 @@ Please note that there are significant changes in this year's regulation due to 
 
 ### Online Contest Format
 * The APIO 2020 online contest is a 5-hour contest with flexible start time within a determined window.
-* The contest will be held between Saturday, 15 August 2020 and Sunday, 16 August 2020 (time TBA).
+* The contest will be held between Saturday, 15 August 2020 (08:00 UTC+7) and Monday, 17 August 2020 (08:00 UTC+7).
 * ~~Each country must run one or more official contest sites~~.
 * ~~All participants must take the contest at an official contest site~~.
 * ~~Each contest site starts the contest at the time of its own choice within the window. Different sites from within the same country may also start the contest at different times~~.

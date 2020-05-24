@@ -6,14 +6,11 @@ key: regulation
 
 Please note that there are significant changes in this year's regulation due to COVID-19 pandemic. See [Changes due to COVID-19 pandemic page](/covid) for more details.
 
-### Online Contest Format
-* The APIO 2020 online contest is a 5-hour contest with flexible start time within a determined window.
-* The contest will be held between Saturday, 15 August 2020 (08:00 UTC+7) and Monday, 17 August 2020 (08:00 UTC+7).
-* ~~Each country must run one or more official contest sites~~.
-* ~~All participants must take the contest at an official contest site~~.
-* ~~Each contest site starts the contest at the time of its own choice within the window. Different sites from within the same country may also start the contest at different times~~.
-* ~~Each contest site must be fully supervised in order to guarantee that the contest rules are observed by all the students~~.
+### Contest Format
+* The APIO 2020 contest is a 5-hour contest with flexible start time within a determined window.
+* The competition window will be held between Saturday, 15 August 2020 (08:00 UTC+7) and Monday, 17 August 2020 (08:00 UTC+7).
 * Each country may consist of up to 60 students. However, only the top six students will form the official team, according to the contest results.
+* Each student starts the contest at the time of their own choice. The start and end time must be within the competition window. Different students from within the same country may start the contest at different times.
 * Students are eligible for this contest if and only if they are eligible for IOI 2020.
 
 ### Medal Distribution

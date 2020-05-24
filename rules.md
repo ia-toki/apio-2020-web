@@ -83,3 +83,13 @@ Delegation Leaders have the responsibility of ensuring that all members of their
    * “ANSWERED IN TASK DESCRIPTION (EXPLICITLY OR IMPLICITLY)” – The task description contains sufficient information. The contestant should read it again carefully.
    * “INVALID QUESTION” – The question is most likely not phrased so that a yes/no answer would be meaningful. The contestant is encouraged to rephrase the question.
    * “NO COMMENT” – The contestant is asking for information that the Scientific Committee cannot give.
+
+<br>
+
+### F. Submission and Access
+
+* All submission from each contestant must be written by the contestant.
+* Each contestant is allowed to use any code written before the competition, as long as the code is written by the contestant.
+* Each contestant is prohibited to talk or discuss anything related to the content of the competition with anyone, including other contestants, except to the committee of the competition using the clarification request explained in the earlier section.
+* Each contestant is allowed to use any sources of information on the Internet, as long as the contestant does not violate the previous rule. In particular, it is forbidden to copy-paste somebody else's code on the internet, or posting anything related to the content of the competition in an online forum.
+* For the sake of respecting fairness of this newly-introduced online contest format, each contestant is expected to show good sportsmanship by following the above rules honestly. Any violation of the rules can be subject to disqualification.

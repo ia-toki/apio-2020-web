@@ -4,7 +4,10 @@ title: Open Contest
 key: open
 ---
 
-We invite everybody to participate in APIO 2020 Open Contest.
+We invite everybody to participate in APIO 2020 Open Contest. The open contest
+will have the same problemset as APIO 2020. Therefore, we encourage people who
+have seen the problemset before the open contest to not participate in the
+open contest.
 
 ### Technical Details
 

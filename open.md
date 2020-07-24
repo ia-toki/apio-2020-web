@@ -20,9 +20,9 @@ in to TLX, you can register the contest at
 
 The open contest will be held between Tuesday, 18 August 2020 (08:00 UTC+7) and
 Thursday, 20 August 2020 (08:00 UTC+7). The open contest is a virtual contest,
-which means you may start your participation at any time within that window.
-Once the "Start" button in the TLX contest is pressed, your individual 5-hour
-timer will be started.
+which means you can participate at any time within that window. Once the "Start"
+button in the TLX contest is pressed, your individual 5-hour timer will be
+started.
 
 ### Rules
 

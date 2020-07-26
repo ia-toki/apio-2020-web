@@ -76,7 +76,7 @@ Delegation Leaders have the responsibility of ensuring that all members of their
 
 ### E. Clarification
 
-* A contestant can submit a clarification request in English or their native language during the competition.
+* A contestant can submit a clarification request in English during the competition.
 * Clarification requests will be answered only in English with one of the following:
    * “YES”
    * “NO”

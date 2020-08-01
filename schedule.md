@@ -16,7 +16,7 @@ The schedule for practice session, task translation, and result announcement is 
   </thead>
   <tbody>
     <tr>
-      <td><a href="registation">Leader Confirmation Deadline</a></td>
+      <td><a href="registration">Leader Confirmation Deadline</a></td>
       <td>Friday, 13 March 2020</td>
     </tr>
     <tr>

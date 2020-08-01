@@ -24,7 +24,7 @@ The schedule for practice session, task translation, and result announcement is 
       <td>Sunday, 15 March 2020</td>
     </tr>
     <tr>
-      <td><a href="registation">Participant List Registration Deadline</a></td>
+      <td><a href="registration">Participant List Registration Deadline</a></td>
       <td>Thursday, 16 July 2020</td>
     </tr>
     <tr>

@@ -12,11 +12,6 @@ Here is the specification of the grader system.
 - 4 GB RAM
 - Ubuntu 18.04.3 LTS
 
-<b>C compiler</b>
-
-- gcc 7.5.0
-- Compilation command: `gcc -std=gnu99 -o solution solution.c -O2 -lm`
-
 <b>C++ compiler</b>
 
 - g++ 7.5.0
@@ -25,4 +20,4 @@ Here is the specification of the grader system.
 <b>Java compiler</b>
 
 - OpenJDK javac 1.8.0_252
-- Compilation command: `javac Solution.java`
+- Compilation command: `javac <filename>`

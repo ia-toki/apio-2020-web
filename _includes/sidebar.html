@@ -44,6 +44,14 @@
       <div
         class="pt-tab"
         role="tab"
+        aria-selected="{% if page.key == 'spec' %}true{% else %}false{% endif %}"
+      >
+        <span class="pt-icon-standard pt-icon-application sidebar-icon"></span>
+        <a href="/spec.html">Technical Specification</a>
+      </div>
+      <div
+        class="pt-tab"
+        role="tab"
         aria-selected="{% if page.key == 'registration' %}true{% else %}false{% endif %}"
       >
         <span class="pt-icon-standard pt-icon-people sidebar-icon"></span>

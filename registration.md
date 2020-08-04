@@ -39,7 +39,7 @@ If you think that your country is eligible but has not been listed here, please 
 | Macao        | <span class="status-cm"></span> | Michael Chan           | 52 |
 | Malaysia     | <span class="status-cm"></span> | Wei Xin Tan            | 19 |
 | Mongolia     | <span class="status-cm"></span> | Danzan Tsedevsuren     | 27 |
-| New Zealand  | <span class="status-cm"></span> | Yulia Turkova          |  5 |
+| New Zealand  | <span class="status-cm"></span> | Margot Phillips        |  5 |
 | Palestine    | <span class="status-cm"></span> | Mousa Alrefaiyeh       |  7 |
 | Philippines  | <span class="status-cm"></span> | Rafael P. Saldana      | 38 |
 | Russia       | <span class="status-cm"></span> | Andrey Stankevich      | 60 |

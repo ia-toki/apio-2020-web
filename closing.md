@@ -4,5 +4,6 @@ title: Closing Ceremony
 key: closing
 ---
 
-The Virtual Closing Ceremony will be live streamed on Youtube on **Friday, 21 August 2020 19:00 (UTC+7)**.
-Link to the Youtube will be announced soon in this page.
+The closing ceremony will be live streamed virtually on YouTube on **Friday, 21 August 2020 19:00 (UTC+7)**.
+
+The link to the YouTube will be announced soon.

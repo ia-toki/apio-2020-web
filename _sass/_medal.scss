@@ -1,0 +1,20 @@
+.medal {
+  opacity: 1;
+  transition: opacity 100ms ease;
+}
+
+.medal:hover {
+  opacity: 0.75;
+}
+
+.medal-gold {
+  background: gold;
+}
+
+.medal-silver {
+  background: silver;
+}
+
+.medal-bronze {
+  background: orangered;
+}

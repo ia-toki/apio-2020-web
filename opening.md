@@ -1,5 +1,5 @@
 ---
-layout: single-page-md
+layout: full-single-page-md
 title: Opening Ceremony
 key: opening
 ---

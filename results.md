@@ -1,5 +1,5 @@
 ---
-layout: single-page-md
+layout: full-single-page-md
 title: Official Results
 key: results
 ---

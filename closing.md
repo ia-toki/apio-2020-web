@@ -1,5 +1,5 @@
 ---
-layout: single-page-md
+layout: full-single-page-md
 title: Closing Ceremony
 key: closing
 ---

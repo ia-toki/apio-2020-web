@@ -73,14 +73,15 @@ key: tasks
 
 The list of authors who have submitted tasks to APIO 2020:
 
-* Abdul Malik Nurrokhman
+* Abdul Malik Nurrokhman (Indonesia, TOKI)
 * Alham Fikri Aji
-* Ammar Fathin Sabili
-* Jonathan Mulyawan Woenardi
-* Kwee Lung Sin
-* Leonid Gaev
-* Muhammad Ayaz Dzulfikar
-* Sebastian Mualim
-* William Gan
+* Ammar Fathin Sabili (Indonesia, NUS)
+* Jonathan Mulyawan Woenardi (Indonesia, Sea)
+* Kwee Lung Sin (Indonesia, NUS)
+* Leonid Gaev (Russia, Docent of Department of automated control systems, Lipetsk
+State Technical University)
+* Muhammad Ayaz Dzulfikar (Indonesia, Shopee)
+* Sebastian Mualim (Indonesia, Bina Nusantara University)
+* William Gan (Singapore, National University of Singapore)
 * Wing-Kin Sung
-* Wiwit Rifa'i
+* Wiwit Rifa'i (Indonesia)

@@ -14,15 +14,21 @@ The official results will be announced on the [closing ceremony](/closing.html) 
 <table id="results"></table>
 
 <script>
-  var country_index = 4;
-  var medal_index = 6;
+  const country_index = 4;
+  const medal_index = 6;
   var data = [];
   var table_el = document.getElementById("results");
   var filter_el = document.getElementById("filter");
-  var countries = [ "All Countries", "ARM", "AUS", "AZE", "BGD", "CHN", "GEO", "HKG", "IND",
-                    "IDN", "IRN", "ISR", "JPN", "KAZ", "KOR", "KGZ", "MAC",
-                    "MYS", "MNG", "NZL", "PSE", "PHL", "RUS", "SAU", "SGP",
-                    "LKA", "SYR", "TWN", "TJK", "THA", "TUR", "TKM", "UZB", "VNM"];
+  var countries = [ "All Countries" ];
+  
+  function onlyUnique(value, index, self) { 
+    return self.indexOf(value) === index;
+  }
+
+  function populateCountries() {
+    countries = countries.concat(data.map(c => c[country_index])
+                .slice(1).filter(onlyUnique));
+  }
   
   function h (parent, tag) {
     var el = document.createElement(tag);
@@ -54,14 +60,12 @@ The official results will be announced on the [closing ceremony](/closing.html) 
   }
 
   function onFilterChange(e) {
-    table_el.querySelectorAll(".medal").forEach(tr => {
-      var contents = tr.children;
-      if (e.target.value == "All Countries" || e.target.value == contents[country_index].textContent) {
-        tr.style.removeProperty("display");
-      } else {
-        tr.style.display = "none";
-      }
-    });
+    populateTable(
+      table_el, 
+      data.filter(c => 
+        e.target.value === "All Countries" 
+        || e.target.value === c[country_index])
+    );
   }
 
   function populateFilter() {
@@ -74,6 +78,7 @@ The official results will be announced on the [closing ceremony](/closing.html) 
   }
 
   function populateTable(table, data) {
+    table.innerHTML = "";
     var thead = h(table, "thead");
     var thead_tr = h(thead, "tr");
     for (var j=0; j<data[0].length; j++) {
@@ -92,10 +97,10 @@ The official results will be announced on the [closing ceremony](/closing.html) 
     }
   }
 
-  populateFilter();
-
   httpGetAsync("/results.csv", function(allText) {
     data = processCSV(allText);
+    populateCountries();
+    populateFilter();
     populateTable(table_el, data);
   });
 </script>

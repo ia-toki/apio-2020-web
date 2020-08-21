@@ -27,7 +27,7 @@ The official results will be announced on the [closing ceremony](/closing.html) 
 
   function populateCountries() {
     countries = countries.concat(data.map(c => c[country_index])
-                .slice(1).filter(onlyUnique));
+                .slice(1).filter(onlyUnique).sort());
   }
   
   function h (parent, tag) {
@@ -52,7 +52,7 @@ The official results will be announced on the [closing ceremony](/closing.html) 
     var lines = [];
 
     for (var i=0; i<allTextLines.length; i++) {
-      var data = allTextLines[i].split(',');
+      var data = allTextLines[i].split('\t');
       lines.push(data);
     }
 
@@ -97,7 +97,7 @@ The official results will be announced on the [closing ceremony](/closing.html) 
     }
   }
 
-  httpGetAsync("/results.csv", function(allText) {
+  httpGetAsync("/results.tsv", function(allText) {
     data = processCSV(allText);
     populateCountries();
     populateFilter();

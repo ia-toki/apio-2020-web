@@ -14,21 +14,28 @@
           role="tab"
           aria-selected="{% if page.key == 'opening' %}true{% else %}false{% endif %}"
         >
-          <a href="/opening.html">Opening Ceremony</a>
+          <a href="/opening">Opening Ceremony</a>
         </li>
         <li
           class="pt-tab"
           role="tab"
           aria-selected="{% if page.key == 'closing' %}true{% else %}false{% endif %}"
         >
-          <a href="/closing.html">Closing Ceremony</a>
+          <a href="/closing">Closing Ceremony</a>
         </li>
         <li
           class="pt-tab"
           role="tab"
           aria-selected="{% if page.key == 'results' %}true{% else %}false{% endif %}"
         >
-          <a href="/results.html">Results</a>
+          <a href="/results">Official Results</a>
+        </li>
+        <li
+          class="pt-tab"
+          role="tab"
+          aria-selected="{% if page.key == 'open-results' %}true{% else %}false{% endif %}"
+        >
+          <a href="/open-results">Open Contest Results</a>
         </li>
       </ul>
     </div>

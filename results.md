@@ -4,7 +4,7 @@ title: Official Results
 key: results
 ---
 
-The official results will be announced on the [closing ceremony](/closing.html) and will be updated here afterwards.
+The official results was announced on the [closing ceremony](/closing.html).
 
 <form>
   <label for="filter">Filter By Country: </label>

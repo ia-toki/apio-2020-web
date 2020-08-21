@@ -20,6 +20,14 @@
       <div
         class="pt-tab"
         role="tab"
+        aria-selected="{% if page.key == 'tasks' %}true{% else %}false{% endif %}"
+      >
+        <span class="pt-icon-standard pt-icon-menu sidebar-icon"></span>
+        <a href="/tasks.html">Competition Tasks</a>
+      </div>
+      <div
+        class="pt-tab"
+        role="tab"
         aria-selected="{% if page.key == 'call-for-tasks' %}true{% else %}false{% endif %}"
       >
         <span class="pt-icon-standard pt-icon-book sidebar-icon"></span>

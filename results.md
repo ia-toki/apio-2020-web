@@ -14,8 +14,8 @@ The official results will be announced on the [closing ceremony](/closing.html) 
 <table id="results"></table>
 
 <script>
-  const country_index = 4;
-  const medal_index = 6;
+  const country_index = 1;
+  const medal_index = 3;
   var data = [];
   var table_el = document.getElementById("results");
   var filter_el = document.getElementById("filter");
@@ -62,9 +62,9 @@ The official results will be announced on the [closing ceremony](/closing.html) 
   function onFilterChange(e) {
     populateTable(
       table_el, 
-      data.filter(c => 
+      [data[0]].concat(data.slice(1).filter(c => 
         e.target.value === "All Countries" 
-        || e.target.value === c[country_index])
+        || e.target.value === c[country_index]))
     );
   }
 

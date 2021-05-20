@@ -84,6 +84,14 @@
       <div
         class="bp3-tab"
         role="tab"
+        aria-selected="{% if page.key == 'report' %}true{% else %}false{% endif %}"
+      >
+        <span class="bp3-icon-standard bp3-icon-document sidebar-icon"></span>
+        <a href="/report.html">Competition Report</a>
+      </div>
+      <div
+        class="bp3-tab"
+        role="tab"
         aria-selected="{% if page.key == 'links' %}true{% else %}false{% endif %}"
       >
         <span class="bp3-icon-standard bp3-icon-link sidebar-icon"></span>
